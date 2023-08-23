@@ -1,4 +1,4 @@
-# site_curriculo
+# site de curriculo
 Projeto de currículo construído utilizando linguagens:
 HTMLS
 CSS3 
